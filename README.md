@@ -8,7 +8,7 @@ This is in response to [HB 5511](https://www.congress.gov/bill/119th-congress/ho
 
 This draft is to provide a great alternative to HB 5511 to fund the development of FOSS tools which could be used to well solve the issues. It's tacitly and boldly assumed that tools can be developed which protect users, families, and organizations from harmful data and while simultaneously supporting and enhancing technological freedom. Technological freedom is defined to be from technology architected to allow users freedom to understand, modify, repair, or repurpose at will, without unnatural or predatory difficulties.
 
-There is an apparent contradiction in creating tools which supervise users at an organizational level and to allow users technelogical freedom. However, it's assumed that if such a solution can be found, that the best solution will be findable by free technology developers. It's imperative that such tools be developed to protect users from predatory forces in the world operating via technology. This is especially true for children, but is also true for any person, as we are all finite and subject to forces of manipulation and deception.
+There is an apparent contradiction in creating tools which supervise users at an organizational level and to allow users technological freedom. However, it's assumed that if such a solution can be found, that the best solution will be findable by free technology developers. It's imperative that such tools be developed to protect users from predatory forces in the world operating via technology. This is especially true for children, but is also true for any person, as we are all finite and subject to forces of manipulation and deception.
 
 ## TODO
 
